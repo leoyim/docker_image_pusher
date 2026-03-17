@@ -1,4 +1,7 @@
-openjdk:11.0.16-jdk
+prom/prometheus:v2.28.1
+grafana/grafana:7.3.5
+
+#openjdk:11.0.16-jdk
 
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
